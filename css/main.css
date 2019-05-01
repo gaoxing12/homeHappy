@@ -1,0 +1,9 @@
+.mainHeader{
+	background: pink;
+}
+.mainHeader>p:nth-child(1){
+	float: left;
+}
+.mainHeader>p:nth-child(2){
+	float: right;
+}
